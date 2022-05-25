@@ -1,4 +1,5 @@
 # Rubic-s-Cube
+You can run this code in PascalABC.Net .You can downlad it on http://pascalabc.net/ssyilki-dlya-skachivaniya
 You can spin and solve this rubik's cube.
 Some patterns
 Dots - S' M' S M
